@@ -16,7 +16,7 @@ renamed as (
         order_id,
 
         ---------- properties
-        sku_schema_drift as product_id
+        sku as product_id
 
     from source
 
