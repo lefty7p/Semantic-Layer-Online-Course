@@ -14,4 +14,3 @@ profiles.yml
 models/metrics/metrics_test
 models/metrics/semantic_manifest.json
 semantic_manifest
-dbt_internal_packages/
